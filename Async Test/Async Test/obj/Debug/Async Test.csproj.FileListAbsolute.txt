@@ -1,0 +1,7 @@
+G:\OwainGIT\Tests\Async\Async Test\Async Test\bin\Debug\Async Test.exe.config
+G:\OwainGIT\Tests\Async\Async Test\Async Test\bin\Debug\Async Test.exe
+G:\OwainGIT\Tests\Async\Async Test\Async Test\bin\Debug\Async Test.pdb
+G:\OwainGIT\Tests\Async\Async Test\Async Test\obj\Debug\Async Test.csprojAssemblyReference.cache
+G:\OwainGIT\Tests\Async\Async Test\Async Test\obj\Debug\Async Test.csproj.CoreCompileInputs.cache
+G:\OwainGIT\Tests\Async\Async Test\Async Test\obj\Debug\Async Test.exe
+G:\OwainGIT\Tests\Async\Async Test\Async Test\obj\Debug\Async Test.pdb
